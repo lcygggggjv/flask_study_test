@@ -1,0 +1,17 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="test_项目搭建5.config.configs.root_dir" />
+          <option value="test_项目搭建5.config.configs.test_项目搭建5" />
+          <option value="test_web_selenium.thing_list.test_thing_Page.broswer" />
+          <option value="random.random.sample" />
+          <option value="test_case.test_pytest_basic_case.test_teamlist_case.hamcrest" />
+          <option value="str.__await__" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
